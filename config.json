@@ -1,0 +1,28 @@
+{"langConfig" : [
+	{"uk" : "pymorphy2"},
+	{"ru" : "pymorphy2"},
+   	{"en" : "stanza"},
+	{"de" : ""},
+	{"he" : ""},
+	{"zh" : ""},
+	{"kv" : ""},
+	{"tl" : ""},
+	{"bcl" : ""},
+	{"xal" : ""},
+	{"ba" : ""},
+	{"ga" : ""}
+	],
+
+"docSize" : "2000000",
+
+"nGrams" : [
+	{"1" : "Words"},
+	{"2" : "Bigrams"},
+	{"3" : "Threegrams"}
+	],
+
+"numKeyterms" : "100",
+"startKeyterm" : "20",
+"endKeyterm" : "40"
+
+}
